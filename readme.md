@@ -1,5 +1,5 @@
 # Bio
-- is a software developer 
+- a software developer excels at Kotlin/Java
 - started developer career from a major ERP Vender in Japan
 - after 4 years dedication, bacame a freelance & helping multiple startups `-> now`  
 
