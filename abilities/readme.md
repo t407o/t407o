@@ -12,9 +12,9 @@ Here we go...
 # Languages, Framaworks
 |Subject|Rating|Tags|Remarks|
 |---|---|---|---|
-|Java                   |⭐⭐⭐+    |-|-|
+|Java                   |⭐⭐⭐⭐    |-|-|
 |Spring FW              |⭐⭐⭐     |`AppFW`, `DI`|-|
-|Kotlin(server side)    |⭐⭐⭐+    |-|-|
+|Kotlin(server side)    |⭐⭐⭐⭐    |-|-|
 |Ktor                   |⭐⭐⭐     |`AppFW`|-|
 |Exposed                |⭐⭐⭐     |`ORM`|-|
 |Koin                   |⭐⭐⭐     |`DI`|-|
