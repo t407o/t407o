@@ -17,7 +17,7 @@
 |Angular|⭐⭐⭐|
 |React(Next.js)|⭐⭐|
 |AWS - ECS(Fargate), EC2, RDS etc.|⭐⭐+|
-[see more]()
+[see more](https://github.com/satotats/satotats/tree/master/abilities)
 
 # What's new 
 |Update|Type|Subject|Lang|
