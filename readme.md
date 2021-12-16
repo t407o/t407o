@@ -27,6 +27,6 @@
 |2021/11/24|`Article`|[[Kotlin][Exposed] Daoでも動的Where句生成がしたい！](https://qiita.com/sato_tats/items/b47c2f8ec834c28c620b)|Ja|
 
 # Contacts
-Email to contact.satotats@gmail.com or [DM](https://twitter.com/4_5tatami).
+If you consider to make an offer to me, Email to contact.satotats@gmail.com or [DM](https://twitter.com/4_5tatami). 
 
-lastupdated: 2021-12-15
+lastupdated: 2021-12-16
