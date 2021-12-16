@@ -1,7 +1,7 @@
 # Bio
 - a software developer excels at `Kotlin` & `Java`
 - started developer career from a major ERP Vender in Japan
-- after 4 years dedication, bacame a freelance & helping multiple startups
+- after 4 years dedication, bacame a freelancer & helping multiple startups
 
 [![](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/4_5tatami)
 [![](https://img.shields.io/badge/-Qiita-brightgreen)](https://qiita.com/sato_tats)
