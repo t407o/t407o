@@ -20,13 +20,14 @@
 [see more](https://github.com/satotats/satotats/tree/master/abilities)
 
 # What's new 
-|Update|Type|Subject|Lang|
-|---|---|---|---|
-|2021/12/14|`Article`|[[Kotlin][Exposed] Lazy Loading と Eager Loading - DaoにおけるSELECT文の実際](https://qiita.com/sato_tats/items/6ef8c220eedb32a42695)|Ja|
-|2021/12/04|`Article`|[[Kotlin] インターフェースの委任によるjava.time.Clockの利用](https://qiita.com/sato_tats/items/8b8612897c63c19964c2)|Ja|
-|2021/11/24|`Article`|[[Kotlin][Exposed] Daoでも動的Where句生成がしたい！](https://qiita.com/sato_tats/items/b47c2f8ec834c28c620b)|Ja|
+## Articles
+|Update|Subject|Lang|
+|---|---|---|
+|2021/12/27|[KtorでMock Authentication(モック認証)](https://qiita.com/sato_tats/items/7f6eba4f39f55c46d7c6)|Ja|
+|2021/12/14|[[Kotlin][Exposed] Lazy Loading と Eager Loading - DaoにおけるSELECT文の実際](https://qiita.com/sato_tats/items/6ef8c220eedb32a42695)|Ja|
+|2021/12/04|[[Kotlin] インターフェースの委任によるjava.time.Clockの利用](https://qiita.com/sato_tats/items/8b8612897c63c19964c2)|Ja|
 
 # Contacts
 If you consider to make an offer to me, Email to contact.satotats@gmail.com or [DM](https://twitter.com/4_5tatami). 
 
-lastupdated: 2021-12-16
+lastupdated: 2021-12-27
