@@ -26,7 +26,7 @@ GCP
 ## Articles
 |Update|Subject|Lang|
 |---|---|---|
-|2022/06/01|[個人開発と、逃げ切るためのプロジェクト管理](https://qiita.com/sato_tats/items/7f6eba4f39f55c46d7c6)|Ja|
+|2022/06/01|[個人開発と、逃げ切るためのプロジェクト管理](https://qiita.com/sato_tats/items/99d0d2bf834b4d07ba88)|Ja|
 |2021/12/27|[KtorでMock Authentication(モック認証)](https://qiita.com/sato_tats/items/7f6eba4f39f55c46d7c6)|Ja|
 |2021/12/14|[[Kotlin][Exposed] Lazy Loading と Eager Loading - DaoにおけるSELECT文の実際](https://qiita.com/sato_tats/items/6ef8c220eedb32a42695)|Ja|
 
