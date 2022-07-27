@@ -1,6 +1,6 @@
 # Bio
 - a software developer excels at JVM Languages(especially `Java` & `Kotlin`)
-- started developer career from a major ERP Vender in Japan
+- started the developer career from a major ERP Vender in Japan
 - a freelancer now - helping startups & developing own products
 
 [![](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/4_5tatami)
