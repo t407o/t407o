@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/4_5tatami)
 [![](https://img.shields.io/badge/-Qiita-brightgreen)](https://qiita.com/sato_tats)
-[![](https://img.shields.io/badge/-GitHub-lightgray)](https://github.com/satotats)
+[![](https://img.shields.io/badge/-Dev.to-lightgray)](https://dev.to/satotats)
 [![](https://img.shields.io/badge/📣Support-PayPal-yellow)](https://paypal.me/satotats?country.x=JP&locale.x=ja_JP)
 
 # Skills 💪
