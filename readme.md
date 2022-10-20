@@ -3,23 +3,24 @@
 - Excels at `Web` app development
 - Loves to create something that make us happy😊
 
-[![](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/4_5tatami)
-[![](https://img.shields.io/badge/-Qiita-brightgreen)](https://qiita.com/sato_tats)
+[![](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/tatsuhiro-s-809143185/)
 [![](https://img.shields.io/badge/-Dev.to-lightgray)](https://dev.to/satotats)
+[![](https://img.shields.io/badge/-Qiita-brightgreen)](https://qiita.com/sato_tats)
+[![](https://img.shields.io/badge/-Twitter-1589FF)](https://twitter.com/4_5tatami)
 [![](https://img.shields.io/badge/📣Support-PayPal-yellow)](https://paypal.me/satotats?country.x=JP&locale.x=ja_JP)
 
 # Skills 💪
 ## Frequently using
 Kotlin, Java, TypeScript(JavaScript)  
-React, Vue, Svelte  
-Flutter  
-AWS, Vercel  
+Vue, Svelte  
+AWS, Azure(OCR)  
+Netlify, Vercel  
 
 ## Sometimes
 Python, Ruby  
-Angular  
-GCP
-Azure(OCR)
+React(Nextjs), Angular  
+Flutter  
+GCP 
 
 # What's new 👀
 ## Products
@@ -36,4 +37,4 @@ Azure(OCR)
 # Contacts 📞
 If you consider to make an offer to me, Email to contact.satotats@gmail.com or [DM](https://twitter.com/4_5tatami). 
 
-lastupdated: 2022-10-03
+lastupdated: 2022-10-21
