@@ -25,7 +25,7 @@ GCP
 # What's new 👀
 ## Products
 - [**Fish & Chips the Game**](https://fish-and-chips.click/) : Game to deal well with *logical expressions*, with fun🎉 - Available in web browsers (made of `Svelte`)
-- [**Timefolio**](https://www.timefolio.site/) : Tool to visualize your daily life - iOS/Android App(made of `Flutter`)
+- [**Timefolio**](https://timefolio-site.vercel.app/) : Tool to visualize your daily life - iOS/Android App(made of `Flutter`)
 
 ## Articles
 |Update|Subject|Lang|
