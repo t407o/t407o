@@ -1,26 +1,24 @@
 # Bio 😃
-- A *freelance* software developer
+- A software developer
 - Excels at `Web` app development
 - Loves to create something that make us happy😊
 
-[![](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/tatsuhiro-s-809143185/)
 [![](https://img.shields.io/badge/-Dev.to-lightgray)](https://dev.to/t407o)
-[![](https://img.shields.io/badge/-Qiita-brightgreen)](https://qiita.com/sato_tats)
+[![](https://img.shields.io/badge/-Qiita-brightgreen)](https://qiita.com/t407o)
 [![](https://img.shields.io/badge/-Twitter-1589FF)](https://twitter.com/t407o)
-[![](https://img.shields.io/badge/📣Support-PayPal-yellow)](https://paypal.me/satotats?country.x=JP&locale.x=ja_JP)
+[![](https://img.shields.io/badge/-☕-yellow)](https://www.buymeacoffee.com/oq6pdwnglt)
 
 # Skills 💪
 ## Frequently using
-Kotlin, Java, TypeScript(JavaScript)  
-Vue, Svelte  
-AWS, Azure(OCR)  
-Netlify, Vercel  
+Ruby, Python, TypeScript(JavaScript)    
+Kotlin, Java  
+React, Vue  
+AWS, GCP  
 
 ## Sometimes
-Python, Ruby  
-React(Nextjs), Angular  
+Svelte, Angular  
 Flutter  
-GCP 
+Azure 
 
 # What's new 👀
 ## Products
@@ -37,4 +35,4 @@ GCP
 # Contacts 📞
 If you consider to make an offer to me, Email to contact.satotats@gmail.com or [DM](https://twitter.com/t407o). 
 
-lastupdated: 2022-10-21
+lastupdated: 2023-12-12
