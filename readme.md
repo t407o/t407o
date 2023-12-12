@@ -22,8 +22,9 @@ Azure
 
 # What's new 👀
 ## Products
-- [**Fish & Chips the Game**](https://fish-and-chips.click/) : Game to deal well with *logical expressions*, with fun🎉 - Available in web browsers (made of `Svelte`)
-- [**Timefolio**](https://timefolio-site.vercel.app/) : Tool to visualize your daily life - iOS/Android App(made of `Flutter`)
+- [**paperboy**](https://github.com/t407o/paperboy) : `Python` tools for *engineers & researchers* - A faithful deliverer to help watching new arrivals in messaging apps
+- [**Fish & Chips the Game**](https://fish-and-chips.click/) : `Svelte` web(browser) game - Let's deal well with *logical expressions*, with fun🎉
+- [**Timefolio**](https://timefolio-site.vercel.app/) : iOS/Android(`Flutter`) tool - Visualize your daily life
 
 ## Articles
 |Update|Subject|Lang|
