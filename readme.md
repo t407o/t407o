@@ -24,7 +24,7 @@ Azure
 ## Products
 - [**paperboy**](https://github.com/t407o/paperboy) : `Python` tools for *engineers & researchers* - A faithful deliverer to help watching new arrivals in messaging apps
 - [**Fish & Chips the Game**](https://fish-and-chips.click/) : `Svelte` web(browser) game - Let's deal well with *logical expressions*, with fun🎉
-- [**Timefolio**](https://timefolio-site.vercel.app/) : iOS/Android(`Flutter`) tool - Visualize your daily life
+- [**Timefolio**](https://timefolio-site.vercel.app/) : iOS/Android(`Flutter`) utility app - Visualize your daily life
 
 ## Articles
 |Update|Subject|Lang|
