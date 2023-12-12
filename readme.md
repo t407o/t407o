@@ -1,4 +1,4 @@
-# Bio 😃
+# Bio
 - A software developer
 - Excels at `Web` app development
 - Loves to create something that make us happy😊
@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Twitter-1589FF)](https://twitter.com/t407o)
 [![](https://img.shields.io/badge/-☕-yellow)](https://www.buymeacoffee.com/oq6pdwnglt)
 
-# Skills 💪
+# Skills
 ## Frequently using
 Ruby, Python, TypeScript(JavaScript)    
 Kotlin, Java  
