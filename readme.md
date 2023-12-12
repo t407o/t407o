@@ -20,7 +20,7 @@ Svelte, Angular
 Flutter  
 Azure 
 
-# What's new 👀
+# What's new
 ## Products
 - [**paperboy**](https://github.com/t407o/paperboy) : `Python` tools for *engineers & researchers* - A faithful deliverer to help watching new arrivals in messaging apps
 - [**Fish & Chips the Game**](https://fish-and-chips.click/) : `Svelte` web(browser) game - Let's deal well with *logical expressions*, with fun🎉
