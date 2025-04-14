@@ -29,11 +29,12 @@ Azure
 ## Articles
 |Update|Subject|Lang|
 |---|---|---|
+|2025/04/14|["Ruby, Fiber, Falcon, ...FlappyBird!](https://zenn.dev/t407o/articles/6584c26455a312)|Ja|　
+|2024/12/23|[Flappy Birdで学ぶ、ゲームループとアニメーション](https://qiita.com/t407o/items/01aff9475d77404fb56d)|Ja|　
 |2022/10/03|["Fish & Chips the Game" is now available🎉](https://dev.to/t407o/fish-chips-the-game-is-now-available-4kkl)|En|　
 |2022/06/01|[個人開発と、逃げ切るためのプロジェクト管理](https://qiita.com/sato_tats/items/99d0d2bf834b4d07ba88)|Ja|　
-|2021/12/27|[KtorでMock Authentication(モック認証)](https://qiita.com/sato_tats/items/7f6eba4f39f55c46d7c6)|Ja|
 
 # Contacts 📞
 If you consider to make an offer to me, Email to contact.satotats@gmail.com or [DM](https://twitter.com/t407o). 
 
-lastupdated: 2023-12-12
+lastupdated: 2025-04-15
